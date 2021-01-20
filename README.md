@@ -5,7 +5,7 @@ This is a modified version of a Vagrant machine originally created six years ago
 
 ## About this virtual machine
 
-The machine was upgraded to Ubuntu 14.04 Trusty 64 bits which makes some of the problem due to aged software go away. There are other fixes necessary to run OpenCPU, Shiny and RStudio, such as dependencies and repositories. All of the applications have been upgraded to their latest version available as of January 19, 2021.
+The machine was upgraded to Ubuntu 14.04 Trusty 64 bits which makes some of the problems, due to aged software go away. There are other fixes necessary to run OpenCPU, update version and repository; Shiny and RStudio, such as dependencies and repositories; and Webmin, the server administration application. All of the server applications have been upgraded to their latest version available as of January 19, 2021.
 
 ## Status
 
