@@ -1,3 +1,8 @@
+## TODO
+* Add Shiny examples to `./shiny-server/R`
+* Add Jupyter server
+* If possible, upgrade to `bionic64`
+
 # 20210119
 
 *   Launch OpenCPU with http://127.0.0.1:8082/ocpu/
