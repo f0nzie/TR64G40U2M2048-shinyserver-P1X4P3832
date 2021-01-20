@@ -25,7 +25,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.vm.network "forwarded_port", guest: 10000, host: 10002     # webmin
 	
     # synced folders
-    config.vm.synced_folder ".", "/vagrant", disabled: false
+    config.vm.synced_folder ".", "/vagrant", disabled: false  # need few files from here in the VM
     config.vm.synced_folder  "etc/rstudio", "/etc/rstudio", create:true
     config.vm.synced_folder  "etc/shiny-server", "/etc/shiny-server", create:true
     config.vm.synced_folder  "shiny-server", "/srv/shiny-server", create:true
