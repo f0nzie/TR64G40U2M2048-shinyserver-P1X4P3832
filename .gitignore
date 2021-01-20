@@ -1,0 +1,11 @@
+.vagrant
+apps
+etc
+srv
+/startshiny.cmd
+/puppet_core_types_cheatsheet.pdf
+shiny-server
+
+/precise/*.box
+ubuntu-xenial-16.04-cloudimg-console.log
+ubuntu-bionic-18.04-cloudimg-console.log
