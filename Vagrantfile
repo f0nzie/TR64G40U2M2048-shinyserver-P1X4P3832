@@ -5,8 +5,8 @@
 VAGRANTFILE_API_VERSION = "2"
 
 $script = <<SCRIPT
-echo Loading Puppet modules
-puppet module install maestrodev-wget --force --modulepath /usr/share/puppet/modules
+  echo Loading Puppet modules
+  puppet module install maestrodev-wget --force --modulepath /usr/share/puppet/modules
 SCRIPT
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
@@ -44,5 +44,4 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 #        puppet.module_path = "puppet/modules"
 
     end
-
 end
