@@ -33,7 +33,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.vm.hostname = "vagrant.example.com"
 
    # Provisioning
-   config.vm.provision "shell", inline: $script
+   config.vm.provision "shell", inline: $script    # call script located at the top to enable Puppet
 
     config.vm.provision :puppet,
 #    :options => ["--verbose", "--debug"] do |puppet|
