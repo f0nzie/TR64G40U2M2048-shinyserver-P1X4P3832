@@ -14,7 +14,7 @@ $urlrstudio = 'https://download2.rstudio.org/server/trusty/amd64/'
 # https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.16.958-amd64.deb
 # $shinyserver = 'shiny-server-1.2.3.368-amd64.deb'
 # $urlshiny = 'http://download3.rstudio.org/ubuntu-12.04/x86_64/'
-$shinyserver = 'shiny-server-1.5.16.958-amd64.deb'
+$shinyserver = 'shiny-server-1.5.16.958-amd64.deb'                # updated
 $urlshiny = 'http://download3.rstudio.org/ubuntu-14.04/x86_64/'
 
 
