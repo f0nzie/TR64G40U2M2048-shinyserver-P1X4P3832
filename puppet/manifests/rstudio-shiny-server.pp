@@ -7,7 +7,7 @@ include wget
 # https://download2.rstudio.org/server/trusty/amd64/rstudio-server-1.2.5042-amd64.deb
 # $rstudioserver = 'rstudio-server-0.98.1091-amd64.deb'
 # $urlrstudio = 'https://s3.amazonaws.com/rstudio-dailybuilds/'
-$rstudioserver = 'rstudio-server-1.2.5042-amd64.deb'
+$rstudioserver = 'rstudio-server-1.2.5042-amd64.deb'              # updated
 $urlrstudio = 'https://download2.rstudio.org/server/trusty/amd64/'
 
 # See http://www.rstudio.com/shiny/server/install-opensource
