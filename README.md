@@ -1,7 +1,7 @@
 Running R Shiny, RStudio Server, OpenCPU and Webmin in a Vagrant Virtual Box
 ===================================================
 
-This is a modified version of a Vagrant machine originally created six years ago. I found it the web [here](https://github.com/dkilfoyle/vagrant-rstudio). It wasn't running from the get-go and some modifications were required. The changes are documented in the markdown files NEWS, BUILD and HISTORY.
+This is a modified version of a Vagrant machine originally created six years ago. I found the VM in the web [here](https://github.com/dkilfoyle/vagrant-rstudio). It wasn't running from the get-go and some modifications were required. The changes are documented in the markdown files NEWS, BUILD and HISTORY with the project.
 
 ## About this virtual machine
 
