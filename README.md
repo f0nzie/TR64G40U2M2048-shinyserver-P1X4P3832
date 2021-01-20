@@ -29,9 +29,8 @@ These applications can be called via their unique ports in the server (this virt
 ## Provisioning
 The virtual machine uses Puppet as a provisioner, for installation and configuration. Few files will be automatically copied from the host to the VM from within the provisioning script.
 
-The virtual machine uses Puppet as a provisioner, for installation and configuration. Few files will be automatically copied from the host to the VM by the provisioning script.
-
 There is a folder `shiny-server/R` under this project where you can place your Shiny projects for developing, testing, or pilot deployment.
+
 
 >   **Machine code**: `TR64G40U2M2048-shinyserver-P1X4P3832`
 >
