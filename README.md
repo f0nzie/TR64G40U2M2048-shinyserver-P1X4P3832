@@ -26,6 +26,8 @@ These applications can be called via their unique ports in the server (this virt
 *   Webmin: http://127.0.0.1:10002
 
 
+## Provisioning
+The virtual machine uses Puppet as a provisioner, for installation and configuration. Few files will be automatically copied from the host to the VM from within the provisioning script.
 
 The virtual machine uses Puppet as a provisioner, for installation and configuration. Few files will be automatically copied from the host to the VM by the provisioning script.
 
